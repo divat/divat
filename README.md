@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Docker, Kubernetes, AI**
 
-- 👯 I’m looking to collaborate on **backend projects using java tech stacks**
+- 👯 I’m looking to collaborate on **frontend and backend projects**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/dhivakart/](https://www.linkedin.com/in/dhivakart/)
 
